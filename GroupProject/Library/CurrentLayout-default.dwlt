@@ -121,7 +121,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 1
-  controlID: 96
+  controlID: 101
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 97
+  controlID: 102
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -199,7 +199,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 79
+  controlID: 103
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -430,9 +430,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -5.4903364, y: 2.964082, z: -5.718384}
+    m_Target: {x: 24.818611, y: 2.5476308, z: -23.517387}
     speed: 2
-    m_Value: {x: -5.4903364, y: 2.964082, z: -5.718384}
+    m_Value: {x: 24.818611, y: 2.5476308, z: -23.517387}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -479,13 +479,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.011588371, y: 0.9793435, z: -0.035307784, w: 0.20202968}
+    m_Target: {x: 0.105402686, y: -0.88818634, z: 0.27263466, w: 0.3563949}
     speed: 2
-    m_Value: {x: 0.011633699, y: 0.9783984, z: -0.03526726, w: 0.20336525}
+    m_Value: {x: 0.10439264, y: -0.8885368, z: 0.27127802, w: 0.35498264}
   m_Size:
-    m_Target: -8.781436
+    m_Target: 7.071068
     speed: 2
-    m_Value: -8.779583
+    m_Value: 7.0710616
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -540,7 +540,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 6cfbffff
+      m_ExpandedIDs: 74cbffff6cfbffff90440000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -556,7 +556,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
+        m_ClientGUIView: {fileID: 9}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -601,16 +601,14 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 1
     m_SearchArea: 1
-    m_Folders:
-    - Assets
+    m_Folders: []
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 0
   m_StartGridSize: 96
   m_LastFolders: []
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: C:\Users\Andrew\Documents\MyDocuments\Classes\Game Workshop
-    Spring 2022\GroupProject
+  m_LastProjectPath: C:\Users\Andrew\Desktop\3D-Game-Dev-Project-1\GroupProject
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -645,7 +643,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000de450000
+    m_ExpandedIDs: ffffffff00000000de4500001e460000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
