@@ -15,11 +15,11 @@ TagManager:
   - 
   - 
   - 
+  - whatIsGround
   - 
-  - 
-  - 
-  - 
-  - 
+  - enemy
+  - whatIsPlayer
+  - obstacle
   - 
   - 
   - 
