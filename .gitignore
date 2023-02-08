@@ -2,7 +2,7 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary
+/[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
@@ -1244,3 +1244,6 @@ GroupProject/Library/ShaderCache/f/fcf5b8711b0673236252cde78974ecb2.bin
 GroupProject/Library/ShaderCache/f/fdd9afaef4d8c5d6ccb5712278302b24.bin
 GroupProject/Library/ShaderCache/f/fe6892466d6534a5bb4d8f56899e2d32.bin
 GroupProject/Library/ShaderCache/f/ff46d67953efcc4516f6582228df3889.bin
+*.log
+*.asset
+*.dwlt
