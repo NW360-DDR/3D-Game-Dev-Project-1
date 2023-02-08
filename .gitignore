@@ -1247,3 +1247,6 @@ GroupProject/Library/ShaderCache/f/ff46d67953efcc4516f6582228df3889.bin
 *.log
 *.asset
 *.dwlt
+*.asset
+*.log
+*.dwlt
